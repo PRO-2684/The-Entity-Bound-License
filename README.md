@@ -2,7 +2,7 @@
 
 *...Because some folks just can't play nice.*
 
-[![License: Entity-Bound](https://img.shields.io/badge/License-Entity_Bound-red.svg)](https://github.com/yourusername/The-Entity-Bound-License) | [![Guaranteed Saltiness](https://img.shields.io/badge/NaCl-%F0%9F%94%A5-lightgrey.svg)](https://en.wikipedia.org/wiki/Sodium_chloride)
+[![License: Entity-Bound](https://img.shields.io/badge/License-Entity_Bound-red.svg)](https://github.com/PRO-2684/The-Entity-Bound-License) | [![Guaranteed Saltiness](https://img.shields.io/badge/NaCl-%F0%9F%94%A5-lightgrey.svg)](https://en.wikipedia.org/wiki/Sodium_chloride)
 
 ## Summary
 
@@ -28,34 +28,57 @@ Think of it as the MIT License's pettier, more vindictive cousin.
 
 ## How to Use
 
-1. **Use this template** by clicking "Use this template" at the top of the repo.
-2. **Clone your generated repo**.
-3. **Customize the [`LICENSE`](LICENSE) and this README**:
-   - Replace `[Year]` with the current year.
-   - Replace `[YourUsername]` with your GitHub handle (or legal name).
-   - Replace `[Company X]` with the entity you wish to ban (no judgment here).
-   - Show your despise to [Company X] in the README.
-4. **Commit your changes**:
+Choose your flavor of pettiness: a quick-and-dirty approach or a full-on spiteful setup. Both methods ban [Company X] with style.
+
+### Simple Copy & Modify for One-Time Use
+
+For when you just want [Company X] gone, no fuss.
+
+1. **Download and copy the [`LICENSE`](LICENSE) file** from this repo to your project:
 
    ```bash
-   git add LICENSE
-   git commit -m "Ban [Company X] from my codebase"
-   git push
+   cp /path/to/downloaded/LICENSE /path/to/your/project/
    ```
 
-5. **Add to your project**:
-
-   ```bash
-   cp LICENSE /path/to/your/project/
-   ```
-
-6. **Optional**: Include this in your code headers for clarity:
+2. **Customize the placeholders** in the `LICENSE` file:
+   - Replace `[Year]` with the current year (e.g., 2025).
+   - Replace `[YourUsername]` with your GitHub handle or legal name.
+   - Replace `[Company X]` with the entity you're banning (go wild, no judgment).
+3. **Optional**: Add this header to your code files for extra clarity:
 
    ```diff
    + // Entity-Bound License (EBL) v1.0 – [Company X] FORBIDDEN. Derivatives must retain this ban.
    ```
 
-7. **Important**: Read the license carefully to grasp its satirical nature and implications.
+4. **Done**: You've now cursed [Company X] out of your codebase. Enjoy the salt!
+
+### Generate a Reusable License for Future Repos
+
+For a reusable, spiteful EBL license instance.
+
+1. **Use this template** by clicking "Use this template" at the top of the repo.
+2. **Clone your generated repo**:
+
+   ```bash
+   git clone https://github.com/yourusername/your-ebl.git
+   ```
+
+3. **Customize the [`LICENSE`](LICENSE) and this README**:
+   - Replace `[Year]` with the current year.
+   - Replace `[YourUsername]` with your GitHub handle (or legal name).
+   - Replace `[Company X]` with the entity you wish to ban (we won't tell).
+   - Add a personal jab at [Company X] in the README for extra spite.
+4. **Commit your changes**:
+
+   ```bash
+   git add LICENSE README.md
+   git commit -m "Ban [Company X] from my repos"
+   git push
+   ```
+
+5. **Done**: You've now created a reusable, spiteful EBL license, ready to curse [Company X] in any repo.
+
+**Important**: Whichever method you pick, read the license to savor its satirical bite.
 
 ## Q&A
 
