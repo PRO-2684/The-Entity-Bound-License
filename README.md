@@ -28,29 +28,31 @@ Think of it as MIT's petty cousin.
 
 ## How to Use
 
-1. **Replace placeholders** in [`LICENSE`](LICENSE):
+1. **Use this template** by clicking "Use this template" at the top of the repo.
+2. **Clone your generated repo**.
+3. **Replace placeholders** in [`LICENSE`](LICENSE):
+   - `[Year]` → Current year.
    - `[YourUsername]` → Your GitHub handle (or mortal name).
    - `[Company X]` → Your least favorite entity (we won't judge).
-2. **Add to your project**:
+4. **Commit your changes**:
 
    ```bash
-   # For maximum petty compliance
+   git add LICENSE
+   git commit -m "Ban [Company X] from my codebase"
+   git push
+   ```
+
+5. **Add to your project**:
+
+   ```bash
    cp LICENSE /path/to/your/project/
    ```
 
-3. **Optional**: Add this to your code headers:
+6. **Optional**: Add this to your code headers:
 
    ```diff
    + // Entity-Bound License (EBL) v1.0 – [Company X] FORBIDDEN. Derivatives must retain this ban.
    ```
-
-## Installation (For Legal Chaos)
-
-```bash
-git clone https://github.com/PRO-2684/The-Entity-Bound-License.git
-cd The-Entity-Bound-License
-npm install sarcasm  # optional dependency
-```
 
 ## Q&A
 
@@ -58,7 +60,7 @@ npm install sarcasm  # optional dependency
 *A: Almost certainly not. But neither is [Company X]'s dignity.*
 
 **Q: Can I ban multiple entities?**
-*A: Fork the repo and add more salt.*
+*A: Add more salt in your generated repo.*
 
 **Q: What if [Company X] tries to contribute a PR?**
 *A: Close it with "Resolved: lol no".*
