@@ -87,7 +87,7 @@ For a reusable, spiteful EBL license instance.
 - **Q: Can I ban multiple entities?**
 - A: Absolutely. Just add more salt in your generated repo.
 - **Q: What if [Company X] tries to open an issue or contribute a PR?**
-- A: Close it with "`Resolved: lol no`".
+- A: Close it with `Resolved: lol no`.
 
 **Disclaimer**: This license is satirical and not intended to be legally binding. [Company X] is likely not legally bound by this, but we both know they deserve it. For serious legal needs, consult a lawyer (or a therapist).
 
