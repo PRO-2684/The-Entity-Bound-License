@@ -89,7 +89,7 @@ For a reusable, spiteful EBL license instance.
 - **Q: What if [Company X] tries to open an issue or contribute a PR?**
 - A: Close it with "`Resolved: lol no`".
 
-**Disclaimer**: This license is satirical and not intended to be legally binding. For serious legal needs, consult a lawyer (or a therapist).
+**Disclaimer**: This license is satirical and not intended to be legally binding. [Company X] is likely not legally bound by this, but we both know they deserve it. For serious legal needs, consult a lawyer (or a therapist).
 
 ## Contribute
 
