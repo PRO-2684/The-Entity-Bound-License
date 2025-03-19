@@ -30,10 +30,11 @@ Think of it as the MIT License's pettier, more vindictive cousin.
 
 1. **Use this template** by clicking "Use this template" at the top of the repo.
 2. **Clone your generated repo**.
-3. **Customize the [`LICENSE`](LICENSE) file**:
+3. **Customize the [`LICENSE`](LICENSE) and this README**:
    - Replace `[Year]` with the current year.
    - Replace `[YourUsername]` with your GitHub handle (or legal name).
    - Replace `[Company X]` with the entity you wish to ban (no judgment here).
+   - Show your despise to [Company X] in the README.
 4. **Commit your changes**:
 
    ```bash
