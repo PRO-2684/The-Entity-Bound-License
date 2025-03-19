@@ -82,14 +82,12 @@ For a reusable, spiteful EBL license instance.
 
 ## Q&A
 
-**Q: Is this license legally enforceable?**
-*A: Probably not. But neither is [Company X]'s dignity.*
-
-**Q: Can I ban multiple entities?**
-*A: Absolutely. Just add more salt in your generated repo.*
-
-**Q: What if [Company X] tries to contribute a PR?**
-*A: Close it with "Resolved: lol no".*
+- **Q: Is this license legally enforceable?**
+- A: Probably not. But neither is [Company X]'s dignity.
+- **Q: Can I ban multiple entities?**
+- A: Absolutely. Just add more salt in your generated repo.
+- **Q: What if [Company X] tries to open an issue or contribute a PR?**
+- A: Close it with "`Resolved: lol no`".
 
 **Disclaimer**: This license is satirical and not intended to be legally binding. For serious legal needs, consult a lawyer (or a therapist).
 
