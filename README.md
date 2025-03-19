@@ -56,18 +56,18 @@ For when you just want [Company X] gone, no fuss.
 
 For a reusable, spiteful EBL license instance.
 
-1. **Use this template** by clicking "Use this template" at the top of the repo.
+1. **Use this template** by clicking "Use this template" at the top of the repo. Name your new repo like `yourusername's EBL`.
 2. **Clone your generated repo**:
 
    ```bash
-   git clone https://github.com/yourusername/your-ebl.git
+   git clone https://github.com/yourusername/yourusername-s-EBL.git
    ```
 
 3. **Customize the [`LICENSE`](LICENSE) and this README**:
    - Replace `[Year]` with the current year.
    - Replace `[YourUsername]` with your GitHub handle (or legal name).
    - Replace `[Company X]` with the entity you wish to ban (we won't tell).
-   - Add a personal jab at [Company X] in the README for extra spite.
+   - Replace this README with a personal jab at [Company X] for extra spite.
 4. **Commit your changes**:
 
    ```bash
