@@ -85,7 +85,7 @@ For a reusable, spiteful EBL license instance.
 - **Q: Is this license legally enforceable?**
 - A: Probably not. But neither is [Company X]'s dignity.
 - **Q: Can I ban multiple entities?**
-- A: Absolutely. Just add more salt in your generated repo.
+- A: Absolutely. Just add more salt in your generated repo. See [my EBL](https://github.com/PRO-2684/PRO-2684-s-EBL) for example.
 - **Q: What if [Company X] tries to open an issue or contribute a PR?**
 - A: Close it with `Resolved: lol no`.
 
